@@ -4,6 +4,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		System.out.println("Connecting to git");
+		System.out.println("Making changes in this file");
 	}
 
 }
